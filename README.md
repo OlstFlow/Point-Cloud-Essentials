@@ -2,10 +2,13 @@
 
 Point Cloud Essentials is a Blender add‑on for fast, intuitive work with point clouds directly in the 3D Viewport.
 
-![Point Cloud Essentials workflow preview](media/pce_workflow_preview.gif)
-*(Example: import cloud → enable Colored → crop → split)*
+<p align="center">
+  <img src="media/pce_workflow_preview.gif" alt="Point Cloud Essentials workflow preview">
+</p>
 
-Download (release builds): see the **Releases** page where you found this repository or release announcement.
+_Example: import cloud → enable Colored → crop → split_
+
+Download (release builds): [Point Cloud Essentials v0.5.0‑beta1](https://github.com/OlstFlow/Point-Cloud-Essentials/releases/tag/v0.5.0-beta1)
 
 This free edition focuses on a simple but powerful workflow:
 - load a mesh that represents a point cloud,
